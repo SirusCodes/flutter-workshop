@@ -583,6 +583,10 @@ Column(
 // ..
 ```
 
+Final UI
+
+![Cleaner UI](./cleaner-UI.png)
+
 Converting the widget into a `StatefulWidget` as we have update the UI as we calculate the split per head
 
 ```dart
