@@ -704,3 +704,35 @@ children: [
 ```
 
 Final output at [dartpad](https://dartpad.dev/?id=5616610d38ba7dec16a70a46b7141388)
+
+## Build app
+
+> For Android - https://docs.flutter.dev/deployment/android
+
+```sh
+flutter build apk
+```
+
+or
+
+```sh
+flutter build appbundle
+```
+
+> For iOS - https://docs.flutter.dev/deployment/ios
+
+```sh
+flutter build ipa
+```
+
+> For Web - https://docs.flutter.dev/deployment/web
+
+```sh
+flutter build web
+```
+
+> For Windows - https://docs.flutter.dev/deployment/windows
+
+```sh
+flutter build windows
+```
